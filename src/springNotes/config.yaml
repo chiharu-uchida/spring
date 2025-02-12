@@ -1,0 +1,4 @@
+database:
+  springdbuser: '<username>'
+  springdbpw: '<userpassword>'
+  server: 'localhost'
